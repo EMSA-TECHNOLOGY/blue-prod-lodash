@@ -1,6 +1,6 @@
-# @sailshq/lodash
+# blue-prod-lodash
 
-A fork of Lodash 3.10.x with ongoing maintenance from the [Sails core team](http://sailsjs.com/about).
+A fork of Lodash 3.10.x with ongoing maintenance from the [blue-prod core team](https://github.com/EMSA-TECHNOLOGY/blue-prod#team).
 
 This repo will only be updated when there are immediate, material issues affecting expected usage, like [this one](https://github.com/lodash/lodash/issues/2768).  Our goal is to diverge as little as possible, and to encourage the use of Lodash 4 and above whenever possible.  This repo is really just for us, and anyone else who really likes Lodash 3 exactly the way it is.
 
@@ -32,16 +32,14 @@ This repo will only be updated when there are immediate, material issues affecti
 - [Make `_.isFunction()` properly detect arrow functions (`()=>{}`) and AsyncFunctions (`async function(){}` or `async ()=>{}`)](https://github.com/lodash/lodash/issues/2768)
 - [Fix prototype polution security vulnerability](https://github.com/lodash/lodash/issues/2768) _(see also JD's comments [here](https://hackerone.com/reports/310443))_
 
-## Bugs &nbsp; [![npm version](https://badge.fury.io/js/%40sailshq%2Flodash.svg)](https://badge.fury.io/js/%40sailshq%2Flodash)
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/blue-prod-lodash.svg)](http://npmjs.com/package/blue-prod-lodash)
 
-To report a bug, [click here](http://sailsjs.com/bugs).
+To report a bug, [click here](https://github.com/EMSA-TECHNOLOGY/blue-prod-lodash/issues).
 
 
 ## Contributing
 
-Please observe the guidelines and conventions laid out in the [Sails project contribution guide](http://sailsjs.com/documentation/contributing) when opening issues or submitting pull requests.
-
-[![NPM](https://nodei.co/npm/@sailshq/lodash.png)](http://npmjs.com/package/@sailshq/lodash)
+[![NPM](https://nodei.co/npm/blue-prod-lodash.png?downloads=true)](http://npmjs.com/package/blue-prod-lodash)
 
 ## License
 
@@ -55,4 +53,4 @@ All ad hoc additions in this repo are also MIT-licensed, copyright &copy; 2017 [
 
 #### Sails framework license
 
-The [Sails framework](http://sailsjs.com) is free and open-source under the [MIT License](http://sailsjs.com/license).
+The [blue-prod framework](https://github.com/EMSA-TECHNOLOGY/blue-prod) is free and open-source under the [MIT License](https://github.com/EMSA-TECHNOLOGY/blue-prod-hook-sockets/blob/master/LICENSE.md).
